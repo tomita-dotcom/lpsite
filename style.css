@@ -75,8 +75,7 @@ a {
 }
 
 .news {
-  width: 80vw;
-  margin: 80px auto;
+  margin: 10vw 10vw;
 }
 
 .news-ttl {
@@ -523,7 +522,6 @@ a {
 }
 
 .company {
-  width: 100vw;
   margin: 1vw 20vw;
 }
 
@@ -546,8 +544,7 @@ a {
 
 table {
   height: 37vh;
-  width: 70vw;
-  width: 60%;
+  width: 100%;
   border-collapse: collapse;
   color: gray;
 }
