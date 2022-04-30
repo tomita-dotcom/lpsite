@@ -1,3 +1,5 @@
+
+
 a {
   text-decoration: none;
   color: inherit;
@@ -217,7 +219,7 @@ a {
 
 .service-area {
   display: grid;
-  width: 80vw;
+  width: 77vw;
   grid-template-rows: 15vw 15vw;
   grid-template-columns: 1fr 1fr;
 }
@@ -281,7 +283,7 @@ a {
   position: absolute;
   top: 45%;
   left: 35%;
-  width: 45vw;
+  width: 28vw;
   color: #fff;
   font-size: 1.5vw;
   line-height: 2.1vw;
@@ -312,7 +314,7 @@ a {
   position: absolute;
   top: 45%;
   left: 35%;
-  width: 45vw;
+  width: 28vw;
   color: #fff;
   font-size: 1.5vw;
   line-height: 2.1vw;
@@ -572,11 +574,11 @@ table th {
 }
 
 .recruit-img img {
-  width: 50vw;
+  width: 47.5vw;
 }
 
 .interview-img img {
-  width: 50vw;
+  width: 47.5vw;
 }
 
 .recruit-content {
